@@ -6,7 +6,7 @@
 
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nullset.svg/1200px-Nullset.svg.png" width="80"></a>
 
->One of the important things in an API is that it has a standard response type. This package provides a standard response structure for you.
+>One of the important things in an API is that it has a standard response type. This package provides a standard response structure for your API.
 
 ## Installation
 ```bash
