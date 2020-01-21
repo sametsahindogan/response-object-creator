@@ -1,0 +1,21 @@
+{
+    "name": "sametsahindogan/response-object-creator",
+    "description": "This package provide to standardized response objects for your API.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sametsahindogan",
+            "email": "sametsahindogan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sametsahindogan\\ResponseObjectCreator\\": "src/"
+        }
+    }
+}
